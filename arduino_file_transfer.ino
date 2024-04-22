@@ -1,13 +1,4 @@
-// Wave format file transfer demo for Arduino Mega over Ethernet
-// Author: Bruno Senzio-Savino Barzellato
-// V 1.0
-// Notes: Transfer function can be optimized for filename and buffer size input
-// December 1, 2016
 
-// So far no data for this, decided to upload it for people that might consider this
-// useful :)
-
-//Using SdFat library
 #include <SdFat.h>
 SdFat sd;
 
