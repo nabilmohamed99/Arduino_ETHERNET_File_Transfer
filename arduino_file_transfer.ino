@@ -87,7 +87,7 @@ void setup(void) {
                     
   
   Serial.begin(9600);
-  while (!Serial) {}  // Wait for Leonardo
+  while (!Serial) {}  
 
 
   // initialize the SD card at SPI_HALF_SPEED to avoid bus errors with
